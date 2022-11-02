@@ -33,3 +33,5 @@ In an X11 display manager, select the "TDE" session.
 
 TDE is not compatible with Wayland, and will likely never will be, because Tk
 is old and only supports the older X11 standard.
+
+It's planned to add Wayland support by adding an XWayland session for TDE.
