@@ -4,6 +4,8 @@ A desktop enviornment built using the Tk toolkit and the `cwm` window manager.
 
 ## Dependencies
 
+Debian package names:
+
 * `python3`
 * `cwm`
 * `python3-tk`
